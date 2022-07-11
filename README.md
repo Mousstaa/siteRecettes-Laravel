@@ -20,9 +20,9 @@ Dans le cadre du projet de programmation web 1, on a conçu un site de recette d
 - Clonez le dépôt SiteLaravelRecettes sur votre machine
 
   ```shell
-  git clone https://github.com/mohabib38/SiteLaravelRecettes.git
+  git clone https://github.com/Mousstaa/siteRecettes-Laravel.git
   ```
-  Sinon vous pouvez télécharger le projet directrement sur Github : https://github.com/mousse98/siteRecettes-Laravel (Bouton <em>Code</em> puis <em>Download Zip</em>)
+  Sinon vous pouvez télécharger le projet directrement sur Github : https://github.com/Mousstaa/siteRecettes-Laravel (Bouton <em>Code</em> puis <em>Download Zip</em>)
 <br/><br/>
 - Installer les dépendances<br/>Laravel regroupe rarement ces dépendances avec lui, vous devrez utiliser composer pour les télécharger.<br/>Placez vous dans le répertoire et lancez la commande:
 
