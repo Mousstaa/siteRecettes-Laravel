@@ -7,7 +7,7 @@
 
 # Introduction:
 
-Dans le cadre du projet de programmation web 1, nous avons avons conçu un site de recette de cuisine à l’aide du framework PHP Laravel, permettant de mettre en pratique ce que nous avons vue en cours. Ce site est composé de quatre page:
+Dans le cadre du projet de programmation web 1, on a conçu un site de recette de cuisine à l’aide du framework PHP Laravel, permettant de mettre en pratique ce qu'on a vue en cours. Ce site est composé de quatre page:
 - <b> Une page d’Accueil </b> affichant un texte de bienvenue et les 3 dernières recettes
 - <b> La page recettes </b>, qui affichent une liste de toutes les recettes 
 - <b> La page d’une recette </b>, affichée après avoir été cliquée sur l’une d’elle dans la liste.
@@ -15,13 +15,7 @@ Dans le cadre du projet de programmation web 1, nous avons avons conçu un site 
 - <b> Une page administration</b>, permet l’affichage d’une liste complète des recettes ainsi que l’ajout, l’édition et la suppression d’une recette.
 - Et enfin <b> une page connexion </b> pour permettre à l'administrateur de se connecter et gérer les recettes
 
-<em>Pour chaque parties implémentées nous avons mis des GIFs sur ce README qui représentes des démonstrations pour chaque partie implémenter</em><br/><br/>
-<b>La qualité des GIFs est 1920x1080(1080p Full HD) donc n'hésitez pas à faire un petit zoom</b>
-<br/><br/>
 
-
-
-#
 # Guide d'instalation:
 - Clonez le dépôt SiteLaravelRecettes sur votre machine
 
@@ -69,7 +63,7 @@ Nous allons utiliser celui intégré de Laravel. Ouvrez une fenêtre de terminal
     Vous devriez maintenant pouvoir accéder au site en utilisant ce lien http://127.0.0.1:8000/
 <br/><br/>
 <b>C'est tout!</b><br/>
-Si tout s'est bien passé, vous devriez maintenant regarder la page d'accueil du projet Laravel. <b>Félicitations</b> et <b>enjoy!</b>
+Si tout s'est bien passé, vous devriez maintenant regarder la page d'accueil du projet Laravel. <b>Félicitations</b>
 
 
 
