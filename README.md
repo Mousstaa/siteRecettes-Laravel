@@ -5,24 +5,6 @@
 <div align="Center"><h2><b>Projet de création d’une application web<br/> avec le framework PHP Laravel<h2></b></div>
 
 
-## Sommaire:
-
-- Introduction
-1. Guide d'instalation
-2. Parties implémentées
-    - TP2  
-    - Gestion des commentaires (+)
-    - CRUD des recettes améliorés (++)
-    - Identification / Authentification qui protège l'accès à l’administration (+)
-    - Ajout de fichiers média pour les recettes (+)
-    - Surprise!
-        - Barre de recherche:
-        - Pagination:
-  
-3. Remarques
-- Conclusion 
-
-#
 # Introduction:
 
 Dans le cadre du projet de programmation web 1, nous avons avons conçu un site de recette de cuisine à l’aide du framework PHP Laravel, permettant de mettre en pratique ce que nous avons vue en cours. Ce site est composé de quatre page:
@@ -40,13 +22,13 @@ Dans le cadre du projet de programmation web 1, nous avons avons conçu un site 
 
 
 #
-# 1. Guide d'instalation:
+# Guide d'instalation:
 - Clonez le dépôt SiteLaravelRecettes sur votre machine
 
   ```shell
   git clone https://github.com/mohabib38/SiteLaravelRecettes.git
   ```
-  Sinon vous pouvez télécharger le projet directrement sur Github : https://github.com/mohabib38/SiteLaravelRecettes (Bouton <em>Code</em> puis <em>Download Zip</em>)
+  Sinon vous pouvez télécharger le projet directrement sur Github : https://github.com/mousse98/siteRecettes-Laravel (Bouton <em>Code</em> puis <em>Download Zip</em>)
 <br/><br/>
 - Installer les dépendances<br/>Laravel regroupe rarement ces dépendances avec lui, vous devrez utiliser composer pour les télécharger.<br/>Placez vous dans le répertoire et lancez la commande:
 
