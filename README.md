@@ -5,9 +5,6 @@
 <div align="Center"><h2><b>Projet de création d’une application web<br/> avec le framework PHP Laravel<h2></b></div>
 
 
-
-
-# 
 ## Sommaire:
 
 - Introduction
