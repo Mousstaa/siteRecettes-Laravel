@@ -5,10 +5,7 @@
 <div align="Center"><h2><b>Projet de création d’une application web<br/> avec le framework PHP Laravel<h2></b></div>
 
 
-</br></br>
-<div align="Center"><h3>2020-2021<h3></div>
 
-<br><br>
 
 # 
 ## Sommaire:
